@@ -1,0 +1,5 @@
+c:\users\allan\documents\visual studio 2015\Projects\PhoneBook\Phonebook.Core\bin\Debug\Phonebook.Core.dll
+c:\users\allan\documents\visual studio 2015\Projects\PhoneBook\Phonebook.Core\bin\Debug\Phonebook.Core.pdb
+c:\users\allan\documents\visual studio 2015\Projects\PhoneBook\Phonebook.Core\obj\Debug\Phonebook.Core.csprojResolveAssemblyReference.cache
+c:\users\allan\documents\visual studio 2015\Projects\PhoneBook\Phonebook.Core\obj\Debug\Phonebook.Core.dll
+c:\users\allan\documents\visual studio 2015\Projects\PhoneBook\Phonebook.Core\obj\Debug\Phonebook.Core.pdb
